@@ -21,6 +21,9 @@ a {
   display: block;
 }
 
+.box-header-wrapper img {
+  width: 25px;
+}
 .box-body-wrapper {
   max-height: 94vh;
   overflow-y: auto;

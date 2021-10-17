@@ -8,7 +8,7 @@ allowedUrl = [
     name: "https://github.com/",
   },
   {
-    name: "https://www.w3schools.com/",
+    name: "https://www.freecodecamp.org/",
   },
 ];
 
