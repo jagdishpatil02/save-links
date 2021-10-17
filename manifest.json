@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Save links",
+  "description": "Save links is a chrome extention that will allows you to save you most visited links of your choice.",
+  "version": "1.0",
+  "action": {},
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["storage", "tabs"]
+}

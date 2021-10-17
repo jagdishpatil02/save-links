@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+  background: rgb(32, 33, 36) !important;
+  color: #fff !important;
+}
+
+.box-header-wrapper {
+  background-color: #292a2d !important;
+  margin: 10px 0px 10px 0px !important;
+  padding: 10px;
+}
+
+.box-header-wrapper img,
+a {
+  margin: 10px 0px 10px 0px !important;
+  display: block;
+}
+
+.box-body-wrapper {
+  max-height: 94vh;
+  overflow-y: auto;
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #fff;
+  border-radius: 100px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #6d6e6e;
+  border-radius: 100px;
+}
