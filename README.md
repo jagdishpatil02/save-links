@@ -1,6 +1,6 @@
 # Save links
 
-Save links is a chrome extention that will allows you to save you most visited links of your choice.
+Save links is a chrome extension that will allows you to save you most visited links of your choice.
 
 ![Demo Photo](./assets/banner.PNG)
 
