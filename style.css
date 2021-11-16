@@ -42,3 +42,7 @@ a {
   background-color: #6d6e6e;
   border-radius: 100px;
 }
+
+.list-style-none {
+  list-style-type: none;
+}
