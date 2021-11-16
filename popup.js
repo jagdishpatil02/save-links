@@ -17,9 +17,6 @@ allowedUrls = [
     link: "https://www.geeksforgeeks.org/",
   },
   {
-    link: "https://www.geeksforgeeks.org/",
-  },
-  {
     link: "https://www.mozilla.org/",
   },
 ];
